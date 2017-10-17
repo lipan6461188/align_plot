@@ -1,0 +1,11 @@
+
+compile: 
+1. Qt > 5.9.1
+2. C++ support c++11
+3. basic library: https://github.com/lipan6461188/basic
+
+Steps:
+1. cd src
+2. qmake
+3. make
+
