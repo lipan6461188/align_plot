@@ -1,4 +1,5 @@
 
+#include <algorithm>
 #include "shape.h"
 
 istream &operator >>(istream &IN, Shape &shape)
